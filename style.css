@@ -45,11 +45,11 @@ body{
 }
 @font-face {
     font-family: 'sunshine';
-    src: url(fonts/Sunshine.ttf);
+    src: url(Sunshine.ttf);
 }
 @font-face {
     font-family: lovely;
-    src: url(fonts/Carnevalee\ Freakshow.ttf);
+    src: url(Carnevalee\ Freakshow.ttf);
 }
 .logo a{
     font-size: 35px;
@@ -116,7 +116,7 @@ font-size: 16px;
 }
 @font-face {
     font-family: lovely;
-    src: url(fonts/Carnevalee\ Freakshow.ttf);
+    src: url(Carnevalee\ Freakshow.ttf);
 }
 .content a{
     padding: 5px 10px;
